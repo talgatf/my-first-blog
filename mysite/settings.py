@@ -25,7 +25,7 @@ SECRET_KEY = 'cn&uods=^x@5d_7tgj3s6fqkdrdv(r1!b!@^z5&mv^9ta7bqk5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['talhat.pythonanywhere.com','localhost','127.0.0.1','[::1]',]
 
 
 # Application definition
